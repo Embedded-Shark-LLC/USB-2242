@@ -1,7 +1,3 @@
-# kicad-project-template
-Blank template for a generic KiCAD project
+# Logitech-Unifying-2242
 
-## Important version control information
-~~This project uses submodules to keep libraries up-to-date.  The following commands must be used when cloning or to update the submodule with the latest commits:~~
-
-Submodules have been removed.  This is done to prevent issues syncing in projects.  Manually copy libraries for each project.
+This is a project to integrate a Logitech Unifying controller internally for laptops.  Specifically, I am designing the first version to fit an M.2 2242 slot (M+B key) for my Thinkpad X1C6.
