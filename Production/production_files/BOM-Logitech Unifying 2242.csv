@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+TPS613222ADBV,U1,SOT-23-5,
+150pF,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,
+22uF,C3.3,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+2.2uH,L1,L_1008_2520Metric_Pad1.43x2.20mm_HandSolder,
+10uF,C1.2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+10uF,C1.1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+Bus_M.2_Socket_B,J1,M.2-2242-B+M-KEY,
+100nF,C3.1,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,
+10uF,C3.2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,
+D_Schottky,D1,D_SMA,
+5,R1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
+10uF,C1.3,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,

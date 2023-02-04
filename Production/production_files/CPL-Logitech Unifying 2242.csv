@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1.1,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,145.182,-114.476,0.0,top
+C1.2,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,145.182,-112.444,0.0,top
+C1.3,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,145.182,-110.412,0.0,top
+C2,150pF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,141.8,-116.6,90.0,top
+C3.1,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,129.942,-116.254,180.0,top
+C3.2,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,129.688,-114.476,180.0,top
+C3.3,22uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,129.688,-112.444,180.0,top
+D1,D_Schottky,D_SMA,138.578,-112.698,180.0,top
+J1,Bus_M.2_Socket_B,M.2-2242-B+M-KEY,138.6,-121.2,0.0,top
+L1,2.2uH,L_1008_2520Metric_Pad1.43x2.20mm_HandSolder,133.244,-113.206,-90.0,top
+R1,5,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,140.0,-116.4,-90.0,top
+U1,TPS613222ADBV,SOT-23-5,136.8,-116.508,0.0,top
