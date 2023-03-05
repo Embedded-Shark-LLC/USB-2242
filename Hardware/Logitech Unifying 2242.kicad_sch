@@ -1940,10 +1940,10 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 144.78 91.44 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b49d2d1f-b5fa-42a4-bf94-b1976a6da866)
-    (property "Reference" "J2" (at 144.78 80.01 0)
+    (property "Reference" "USB1" (at 144.78 81.28 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "USB" (at 144.78 82.55 0)
+    (property "Value" "USB" (at 144.78 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_USB:USB_A_TE_292303-7_Horizontal" (at 144.78 91.44 0)
@@ -1959,7 +1959,7 @@
     (instances
       (project "Logitech Unifying 2242"
         (path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
-          (reference "J2") (unit 1)
+          (reference "USB1") (unit 1)
         )
       )
     )
