@@ -56,7 +56,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|138600000|79200000|e4f1f090-1df0-43ed-bf7a-dd3fe444e3df|d0829bca-c949-45cf-b3ec-01a8e612d5f4",
+        "copper_edge_clearance|138600000|79200000|e4f1f090-1df0-43ed-bf7a-dd3fe444e3df|f71d1770-17fb-4d9d-aac0-00657dd55167",
+        "silk_edge_clearance|131940000|105300000|8b14ba3f-43e4-4baf-b5d9-c887fce14454|50ffde95-ccad-4755-a2d3-75cce3e77178",
+        "silk_edge_clearance|145260000|105300000|8b14ba3f-43e4-4baf-b5d9-c887fce14454|5af79031-6031-4f4c-9f47-779cb55db886"
+      ],
       "meta": {
         "version": 2
       },
@@ -123,7 +128,7 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7999999999999999,
+        "min_text_height": 0.5,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.09999999999999999,
@@ -183,7 +188,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.4,
+          "diameter": 0.5,
           "drill": 0.3
         }
       ],
