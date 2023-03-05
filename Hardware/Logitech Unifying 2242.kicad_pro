@@ -57,8 +57,8 @@
         }
       ],
       "drc_exclusions": [
-        "copper_edge_clearance|138600000|79200000|e4f1f090-1df0-43ed-bf7a-dd3fe444e3df|d0829bca-c949-45cf-b3ec-01a8e612d5f4",
-        "copper_edge_clearance|138600000|79200000|e4f1f090-1df0-43ed-bf7a-dd3fe444e3df|f71d1770-17fb-4d9d-aac0-00657dd55167",
+        "copper_edge_clearance|138600000|79200000|2c458fa6-38c9-4d5f-af26-7bef4ba4b657|57251c39-c72d-475a-bf0d-f2e21a0c6675",
+        "copper_edge_clearance|138600000|79200000|2c458fa6-38c9-4d5f-af26-7bef4ba4b657|88ca7809-bbb9-41fd-9411-ec4d10066371",
         "silk_edge_clearance|131940000|105000000|8b14ba3f-43e4-4baf-b5d9-c887fce14454|50ffde95-ccad-4755-a2d3-75cce3e77178",
         "silk_edge_clearance|145260000|105000000|8b14ba3f-43e4-4baf-b5d9-c887fce14454|5af79031-6031-4f4c-9f47-779cb55db886"
       ],
