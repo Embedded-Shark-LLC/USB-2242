@@ -1,0 +1,3 @@
+[submodule "hardware/libs"]
+	path = hardware/libs
+	url = git@github.com:Embedded-Shark-LLC/ben-kicad-library.git
