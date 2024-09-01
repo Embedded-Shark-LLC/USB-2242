@@ -59,10 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_edge_clearance|131940000|105000000|8b14ba3f-43e4-4baf-b5d9-c887fce14454|50ffde95-ccad-4755-a2d3-75cce3e77178",
-        "silk_edge_clearance|145260000|105000000|8b14ba3f-43e4-4baf-b5d9-c887fce14454|5af79031-6031-4f4c-9f47-779cb55db886"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -457,7 +454,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB 2242.kicad_pro",
+    "filename": "USB-2242.kicad_pro",
     "version": 1
   },
   "net_settings": {
