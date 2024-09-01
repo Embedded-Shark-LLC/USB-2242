@@ -1,6 +1,7 @@
-# Logitech-Unifying-2242
+# USB-2242
+This is a project to integrate a wireless mouse USB receiver internally for laptops.  Specifically, I designed this to fit an M.2 2242 slot (M+B key) for my Thinkpad X1C6 (replacing the WWAN card).
 
-This is a project to integrate a Logitech Unifying controller internally for laptops.  Specifically, I designed this to fit an M.2 2242 slot (M+B key) for my Thinkpad X1C6 (replacing the WWAN card).
+If space permits, any low-power USB device (under 500 mA) can be plugged into this adapter.
 
 ## Features
 - M.2 2242 form factor for internal installation

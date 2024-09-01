@@ -5,7 +5,7 @@
 	(uuid "1bbba678-0bcb-4cc7-a74d-51164c36ba99")
 	(paper "USLetter")
 	(title_block
-		(title "Logitech Unifying 2242")
+		(title "USB 2242")
 		(date "2023-03-04")
 		(rev "B")
 		(company "Ben Owen")
@@ -4034,7 +4034,7 @@
 			(uuid "114ebaef-6b32-4f13-a625-b61c05d84364")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C1.2")
 					(unit 1)
@@ -4099,7 +4099,7 @@
 			(uuid "bfd96152-1a21-48e5-a858-29c8c1c1db9b")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "TP3")
 					(unit 1)
@@ -4163,7 +4163,7 @@
 			(uuid "901ab7e5-f808-4ccb-b536-ad8a18ee1960")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "TP1")
 					(unit 1)
@@ -4229,7 +4229,7 @@
 			(uuid "07f76bfa-ba5b-4c19-bead-810d1ba9ea85")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0108")
 					(unit 1)
@@ -4299,7 +4299,7 @@
 			(uuid "da7d38b8-1917-4036-a5f5-12cd7faf192e")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C3.1")
 					(unit 1)
@@ -4367,7 +4367,7 @@
 			(uuid "f2b14ad5-a2f4-4519-9eec-7a7627c75975")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "D1")
 					(unit 1)
@@ -4433,7 +4433,7 @@
 			(uuid "0e9a4b18-ded4-4422-af3f-0e9d923a0c12")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0102")
 					(unit 1)
@@ -4499,7 +4499,7 @@
 			(uuid "83855e73-99fb-453f-a734-6981f16026b2")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0106")
 					(unit 1)
@@ -4564,7 +4564,7 @@
 			(uuid "e1b2931f-8b7e-422d-8547-bf94655f3337")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "TP2")
 					(unit 1)
@@ -4629,7 +4629,7 @@
 			(uuid "1158e974-06c3-435c-96a2-b0664e87395e")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "TP5")
 					(unit 1)
@@ -4695,7 +4695,7 @@
 			(uuid "beda4b1e-1eff-4d9f-86a6-eb4f07525a67")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR02")
 					(unit 1)
@@ -4761,7 +4761,7 @@
 			(uuid "edf387b1-c226-4fb8-9b87-8222a190e89b")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR01")
 					(unit 1)
@@ -4828,7 +4828,7 @@
 			(uuid "41b52e17-3a1d-4012-8556-b8b0a4fa2e96")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C2")
 					(unit 1)
@@ -5093,7 +5093,7 @@
 			(uuid "83d5ada7-abf0-4a5c-a4be-eddacb2b468d")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "J1")
 					(unit 1)
@@ -5159,7 +5159,7 @@
 			(uuid "4ecbbdb8-02a8-4db6-8f54-53887ddea0b3")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0105")
 					(unit 1)
@@ -5229,7 +5229,7 @@
 			(uuid "76e3ca9c-ef9b-4b0e-b669-a671b753fe0e")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C3.3")
 					(unit 1)
@@ -5299,7 +5299,7 @@
 			(uuid "8e933c5b-af4b-4a27-804a-006b61bd425b")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C1.1")
 					(unit 1)
@@ -5369,7 +5369,7 @@
 			(uuid "888fb269-e10c-4a48-9c4f-688ccac6ab70")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C1.3")
 					(unit 1)
@@ -5435,7 +5435,7 @@
 			(uuid "6f4fecb2-0c24-4e2c-8028-8644e09a2152")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0103")
 					(unit 1)
@@ -5502,7 +5502,7 @@
 			(uuid "eb077915-3ba7-47e8-9cc1-c23560ce999f")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0107")
 					(unit 1)
@@ -5569,7 +5569,7 @@
 			(uuid "4fce0192-f270-42db-b0df-0defe9e06667")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "F1")
 					(unit 1)
@@ -5643,7 +5643,7 @@
 			(uuid "1d54f812-2a11-4275-babb-54cde8ca460a")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "USB1")
 					(unit 1)
@@ -5712,7 +5712,7 @@
 			(uuid "0e1d5777-0e1b-4a9a-8731-329cd192997b")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "C3.2")
 					(unit 1)
@@ -5780,7 +5780,7 @@
 			(uuid "41a03425-342a-450f-a435-f62432a47f7b")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "R1")
 					(unit 1)
@@ -5846,7 +5846,7 @@
 			(uuid "47bb8932-4916-4e61-8fb6-574d07b78463")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0109")
 					(unit 1)
@@ -5912,7 +5912,7 @@
 			(uuid "8fb88ff1-4531-4cba-9624-1d16ba1ed89e")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "#PWR0104")
 					(unit 1)
@@ -5979,7 +5979,7 @@
 			(uuid "820e0cef-2434-4b47-9d68-facde53225c7")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "L1")
 					(unit 1)
@@ -6056,7 +6056,7 @@
 			(uuid "3c77813e-97be-4580-8544-34d4c566034d")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "U1")
 					(unit 1)
@@ -6121,7 +6121,7 @@
 			(uuid "76cdaae8-17eb-4bf2-b77e-ccbb09e7fa91")
 		)
 		(instances
-			(project "Logitech Unifying 2242"
+			(project "USB 2242"
 				(path "/1bbba678-0bcb-4cc7-a74d-51164c36ba99"
 					(reference "TP4")
 					(unit 1)

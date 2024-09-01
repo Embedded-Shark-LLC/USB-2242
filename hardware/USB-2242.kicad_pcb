@@ -8,7 +8,7 @@
 	)
 	(paper "USLetter")
 	(title_block
-		(title "Logitech Unifying 2242")
+		(title "USB 2242")
 		(date "2023-03-04")
 		(rev "B")
 		(company "Ben's Universe")
@@ -206,7 +206,7 @@
 			)
 		)
 		(path "/f231ecca-1220-4e92-8c37-b979d5f2bfdb")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -477,7 +477,7 @@
 			)
 		)
 		(path "/6e615041-cd71-4cf6-8ba3-815c84a5318e")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 -0.36)
@@ -686,7 +686,7 @@
 			)
 		)
 		(path "/b49d2d1f-b5fa-42a4-bf94-b1976a6da866")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 7.43 7.69)
@@ -1379,7 +1379,7 @@
 			)
 		)
 		(path "/abead8e5-1793-4664-ba37-332f26045216")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.171267 -0.51)
@@ -1588,7 +1588,7 @@
 			)
 		)
 		(path "/876f7292-14db-4fde-92c4-b1c903a31b6f")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 0.36)
@@ -1796,7 +1796,7 @@
 			)
 		)
 		(path "/d3a740fd-93a0-4cc5-b58b-8b2a30bc73d4")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -1.11)
@@ -2007,7 +2007,7 @@
 			)
 		)
 		(path "/04d3125d-95a4-46bd-880e-95dbdf29964a")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 -0.36)
@@ -2216,7 +2216,7 @@
 			)
 		)
 		(path "/97dea7e2-736b-4b23-8972-644eb6747e53")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 -0.36)
@@ -2424,7 +2424,7 @@
 			)
 		)
 		(path "/7ec9638c-165e-44c9-b3cc-4c2c9ccc3ec3")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -11 -4)
@@ -3099,7 +3099,7 @@
 			)
 		)
 		(path "/23d07e35-8721-4bc7-a112-b5d50027470a")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 0.36)
@@ -3308,7 +3308,7 @@
 			)
 		)
 		(path "/b7c4c359-4b93-4f82-98de-fd27ee777970")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 0.36)
@@ -3517,7 +3517,7 @@
 			)
 		)
 		(path "/2cdf3589-39d1-4f24-bc82-6be1bbc43bd9")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 0.85)
@@ -3798,7 +3798,7 @@
 			)
 		)
 		(path "/bb202d09-8583-4bf3-ab83-a90e64af7787")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 -0.38)
@@ -4007,7 +4007,7 @@
 			)
 		)
 		(path "/9978bde8-fde5-43f6-a70d-476da14e8302")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.115835 -0.36)
@@ -4218,7 +4218,7 @@
 			)
 		)
 		(path "/40c24c89-455e-4b80-85c9-21996a6861ed")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4345,7 +4345,7 @@
 			)
 		)
 		(path "/f26e3557-75a1-4d25-ae81-e0c5d2176bf8")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4472,7 +4472,7 @@
 			)
 		)
 		(path "/4d5cc985-5faf-4a77-b233-223ab030d332")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4599,7 +4599,7 @@
 			)
 		)
 		(path "/0b97110c-4adc-4461-9629-8bee928f9924")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4726,7 +4726,7 @@
 			)
 		)
 		(path "/0ac0fc0d-ffa2-4eb6-8a25-16e16fc2eee8")
-		(sheetfile "Logitech Unifying 2242.kicad_sch")
+		(sheetfile "USB 2242.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
