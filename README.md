@@ -14,6 +14,9 @@ Most thin and light laptops have a limited number of USB ports, especially USB-A
 
 After seeing similar products available for older laptop models, I couldn't find one that fit in my M.2 2242 slot, so I made my own.  All it does is provide 5V power for the USB device and routes the USB data lines according to the [M.2 specification](https://pcisig.com/specifications/pciexpress/M.2_Specification/) (local copy available [here](docs/SPEC_PCIe-M.2-Rev1.0.pdf)).
 
+## Notice
+PCB thickness must be 0.8 mm to fit in standard M.2 slots.
+
 ## Planned Features
 - Separate flex PCB for easier soldering of "floating" USB device
 
