@@ -25,5 +25,8 @@ PCB thickness must be 0.8 mm to fit in standard M.2 slots.
 |---------|--------|
 |![PCB front](docs/Render_FRONT.png)|![PCB back](docs/Render_BACK.png)|
 
+## License Notice
+USB-2242 © 2023 by Embedded Shark, LLC is licensed under CC BY-NC-SA 4.0
+
 ## Trademark Notice
 _Logitech, Logi, and their logos are trademarks or registered trademarks of Logitech Europe S.A. and/or its affiliates in the United States and/or other countries._
